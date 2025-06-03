@@ -1,0 +1,28 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node (se usar futuramente)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel/Netlify (se usar)
+.vercel/
+.netlify/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Sistemas
+*.swp
+*.swo
+
+# Build (caso gere futuramente)
+dist/
+build/
